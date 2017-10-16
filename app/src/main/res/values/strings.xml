@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WorldWarGun</string>
+    <string name="wwgp1">World</string>
+    <string name="wwgp2">War</string>
+    <string name="wwgp3">Gun</string>
+    <string name="play_button_text">Play</string>
+    <string name="leaderboard_button_text">Leaderboard</string>
+    <string name="mainImageContentDescription">The main app image</string>
+    <string name="instructions_big">Instructions</string>
+    <string name="instructions_small">Type the name of the firearm shown in the image. One mistake and BOOM! GAME OVER!</string>
+    <string name="instructions_play_button">Play</string>
+    <string name="leaderboard_main_text">Leaderboard- Top Prize: 20$</string>
+    <string name="submit">Submit</string>
+    <string name="gun_hint">Enter Gun Name</string>
+    <string name="gun_score">Score:</string>
+    <string name="gun_image_description">Image for the GameActivity</string>
+    <string name="actual_points">%1$s</string>
+    <string name="num1">1.</string>
+    <string name="num2">2.</string>
+    <string name="num3">3.</string>
+    <string name="num4">4.</string>
+    <string name="num5">5.</string>
+    <string name="num6">6.</string>
+    <string name="num7">7.</string>
+    <string name="num8">8.</string>
+    <string name="num9">9.</string>
+    <string name="num10">10.</string>
+    <string name="leaderboard_home_button_text">Home</string>
+    <string name="page_0">Source: guns.com</string>
+    <string name="page_1">Source: olegvolk.net</string>
+    <string name="page_2">Source: guns.com</string>
+    <string name="page_3">Source: jamesdjulia.com</string>
+    <string name="page_4">Source: winchesterguns.com</string>
+    <string name="page_5">Source: waltherarms.com</string>
+    <string name="page_6">Source: colt.com</string>
+    <string name="page_7">Source: mossberg.com</string>
+    <string name="page_8">Source: battlefield.wikia.com</string>
+    <string name="page_9">Source: gunsinternational.com</string>
+    <string name="page_10">Source: modernfirearms.net</string>
+    <string name="page_11">Source: guns.wikia.com</string>
+    <string name="page_12">Source: apexgunparts.com</string>
+    <string name="page_13">Source: pewpewtactical.com</string>
+    <string name="page_14">Source: Military-today.com</string>
+    <string name="page_15">Source: copybook.com</string>
+    <string name="page_16">Source: armaco.bg</string>
+    <string name="page_17">Source: glockstore.com</string>
+    <string name="page_18">Source: wikipedia.com</string>
+    <string name="page_19">Source: wikia.com</string>
+    <string name="submit_page_score" formatted="false">Your score was %1$s.</string>
+    <string name="submit_page_extra_text">To submit type in your name, email, and postal address
+    below  and if you win first prize by the designated date, you receive a 20$ cash prize.</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="postal_address_hint">Postal Address</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="play_again_text">Play Again</string>
+</resources>
