@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import org.w3c.dom.Text;
 
@@ -76,11 +77,12 @@ public class GameActivity extends AppCompatActivity {
     private void checkAnswer(int pageNumber) {
         final Page page = game.getPage(pageNumber);
         String gameAnswer = page.getAnswer();
+        Toast.makeText(this, "CODE REACHED checkAnswer", Toast.LENGTH_SHORT).show();
         String gameEditText = ((EditText) findViewById(R.id.gameSquare)).getText().toString();
         if (gameEditText.equals(gameAnswer)) {
             points++;
         }
-
+        Toast.makeText(this, gameEditText + " " + gameAnswer, Toast.LENGTH_SHORT).show();
         String pointsText = String.format("%1$s", points);
         pointsTextView.setText(pointsText);
     }
